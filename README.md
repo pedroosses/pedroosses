@@ -1,8 +1,8 @@
 ## :wave:	Olá, meu nome é Pedro Osses!
  <div>
   <a href="https://github.com/pedroosses">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroosses&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroosses&layout=compact&langs_count=16&theme=monokai"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=pedroosses&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroosses&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
