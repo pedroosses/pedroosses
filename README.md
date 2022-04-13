@@ -24,4 +24,5 @@
  
  - **Email**: pedroaquino_@outlook.com
  - **LinkedIn**: https://www.linkedin.com/in/pedro-aquino-a7b6a2120/
+ (https://github.com/pedroosses/pedroosses/blob/output/github-contribution-grid-snake.svg)
  
