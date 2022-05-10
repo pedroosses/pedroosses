@@ -15,7 +15,7 @@
 ### 👦🏻 Who am I.
   
 - 👷‍♂️ I’m currently working on Quero Educação.
-- 👨‍🎓 Currently studying a degree in systems analysis and development - Anhanguera
+- 👨‍🎓 Currently graduando analise e desenvolvimento de sistemas - anhanguera educacional.
 - 💻 Developing skills in Python, C#, HTML, CSS, Git and JavaScript... In search of more and more knowledge.💭
 - ⚡ My hobbies are being with family and friends, playing games and learning new things.
   
